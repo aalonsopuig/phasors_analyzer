@@ -12,7 +12,7 @@ The system is intended mainly for:
 
 The implementation is intentionally simple and low cost.
 
-![screenshot_placeholder](images/phasor_C.jpg)
+![screenshot_placeholder](images/phasor_c.jpg)
 
 
 
